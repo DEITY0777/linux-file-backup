@@ -31,3 +31,11 @@ How It Works
 -Checks total backup files
 
 Keeps the newest 5 and removes older ones safely
+
+Requirements:
+
+1)Linux
+
+2)zip installed
+
+3)Bash
